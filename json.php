@@ -6,9 +6,9 @@
  * Time: 19:26
  */
 
-//http://80.73.194.181:8081/Status_Conntrack.asp
+
 /*
-$output4 = file_get_contents("http://212.48.228.114");
+$output4 = file_get_contents("http://");
 $count4 = preg_match("/Login/", $output4);
 echo "\r\n" . $count4;
 
